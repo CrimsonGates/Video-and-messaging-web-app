@@ -55,3 +55,5 @@
 
 For more details, please visit: [User Stories](https://github.com/cis557/project-video-and-messaging-web-app-557project-kai-haotian-lihan/wiki/User-Stories)
 
+Author: Kai Jin, Haotian Zhu, Lihan Zhu
+
