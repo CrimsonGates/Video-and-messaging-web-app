@@ -3,24 +3,23 @@
 <h3> Short Clips for Main Features</h3> 
 1. Login to Main View (Login into two different accounts)
 
-![login](https://raw.githubusercontent.com/CrimsonGates/Video-and-messaging-web-app/main/misc/1_login.gif)
+![login](https://github.com/CrimsonGates/Video-and-messaging-web-app/blob/main/misc/1_login.gif?raw=true)
 
 2. Send/receive synchronous text messages between two accounts
 
-![text_message](https://raw.githubusercontent.com/CrimsonGates/Video-and-messaging-web-app/main/misc/2_text_message.gif)
+![text_message](https://github.com/CrimsonGates/Video-and-messaging-web-app/blob/main/misc/2_text_message.gif?raw=true)
 
 3. Send/receive synchronous image/audio/video messages between two accounts
 
-![media_content](https://raw.githubusercontent.com/CrimsonGates/Video-and-messaging-web-app/main/misc/3_image_audio_video_message.gif)
-
+![media_content](https://github.com/CrimsonGates/Video-and-messaging-web-app/blob/main/misc/3_image_audio_video_message.gif?raw=true)
 
 4. Video Call
 
-![video_call](https://raw.githubusercontent.com/CrimsonGates/Video-and-messaging-web-app/main/misc/4_voice_call.gif)
+![video_call](https://github.com/CrimsonGates/Video-and-messaging-web-app/blob/main/misc/4_voice_call.gif?raw=true)
 
 5. Delete messages/conversation
 
-![delete_message](https://raw.githubusercontent.com/CrimsonGates/Video-and-messaging-web-app/main/misc/5_delete_message_conversation.gif)
+![delete_message](https://github.com/CrimsonGates/Video-and-messaging-web-app/blob/main/misc/5_delete_message_conversation.gif?raw=true)
 
 
 
