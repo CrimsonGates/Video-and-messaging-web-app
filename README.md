@@ -5,6 +5,8 @@
 
 ![Login](https://user-images.githubusercontent.com/67878225/104827003-7aac1980-5827-11eb-8aec-f5494dd51146.gif)
 
+![login](https://github.com/CrimsonGates/Video-and-messaging-web-app/blob/tree/main/misc/1_login.gif?raw=true)
+
 2. Send/receive synchronous text messages between two accounts
 
 ![TextMessage](https://user-images.githubusercontent.com/67878225/104827083-2f463b00-5828-11eb-9f0b-ab749aaba47c.gif)
